@@ -1,0 +1,12 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "mainhand": {
+          "tag": "lct:sounds/block/large_amethyst_bud"
+        }
+      }
+    }
+  }
+  

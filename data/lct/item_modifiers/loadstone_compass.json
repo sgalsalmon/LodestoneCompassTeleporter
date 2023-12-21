@@ -1,0 +1,69 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Dimension : ",
+        "color": "gray",
+        "italic": false,
+        "extra": [
+          {
+            "nbt": "SelectedItem.tag.LodestoneDimension",
+            "entity": "@s"
+          }
+        ]
+      },
+      {
+        "text": "Pos : [ ",
+        "color": "gray",
+        "italic": false,
+        "extra": [
+          {
+            "text": "X:",
+            "color": "white"
+          },
+          {
+            "nbt": "SelectedItem.tag.LodestonePos.X",
+            "entity": "@s",
+            "color": "white"
+          },
+          {
+            "text": ", Y:",
+            "color": "white"
+          },
+          {
+            "nbt": "SelectedItem.tag.LodestonePos.Y",
+            "entity": "@s",
+            "color": "white"
+          },
+          {
+            "text": ", Z:",
+            "color": "white"
+          },
+          {
+            "nbt": "SelectedItem.tag.LodestonePos.Z",
+            "entity": "@s",
+            "color": "white"
+          },
+          {
+            "text": " ]"
+          }
+        ]
+      },
+      {
+        "text": "Effect : ",
+        "color": "gray",
+        "italic": false,
+        "extra": [
+          {
+            "nbt": "SelectedItem.tag.lct.Effect.Lore",
+            "entity": "@s",
+            "interpret": true
+          }
+        ]
+      }
+    ],
+    "replace": true
+  }
+]

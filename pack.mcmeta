@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 26,
+        "supported_formats": [25,26],
+        "description": "ver 0.1.0 by sgalsalmon\nMCver 1.20.2"
+    }
+}

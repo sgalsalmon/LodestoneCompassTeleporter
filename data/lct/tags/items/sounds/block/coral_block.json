@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "brain_coral_block",
+    "bubble_coral_block",
+    "fire_coral_block",
+    "horn_coral_block",
+    "tube_coral_block",
+    "honeycomb_block"
+  ]
+}

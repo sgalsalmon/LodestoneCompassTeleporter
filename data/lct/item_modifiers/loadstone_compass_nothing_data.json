@@ -1,0 +1,14 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Lodestone is destroyed.",
+        "color": "red",
+        "italic": false
+      }
+    ],
+    "replace": true
+  }
+]

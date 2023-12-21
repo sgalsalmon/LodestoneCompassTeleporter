@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "bamboo_block",
+    "stripped_bamboo_block",
+    "bamboo_planks",
+    "bamboo_mosaic",
+    "bamboo_stairs",
+    "bamboo_mosaic_stairs",
+    "bamboo_slab",
+    "bamboo_mosaic_slab",
+    "bamboo_fence",
+    "bamboo_fence_gate",
+    "bamboo_door",
+    "bamboo_trapdoor",
+    "bamboo_pressure_plate",
+    "bamboo_button",
+    "bamboo_sign"
+  ]
+}

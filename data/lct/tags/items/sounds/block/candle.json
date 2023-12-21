@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "candle",
+    "red_candle",
+    "blue_candle",
+    "cyan_candle",
+    "gray_candle",
+    "lime_candle",
+    "pink_candle",
+    "black_candle",
+    "brown_candle",
+    "green_candle",
+    "white_candle",
+    "orange_candle",
+    "purple_candle",
+    "yellow_candle",
+    "magenta_candle",
+    "light_blue_candle",
+    "light_gray_candle"
+  ]
+}

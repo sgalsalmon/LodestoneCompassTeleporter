@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#lct:dyes",
+    "#lct:all_block",
+    "#lct:special"
+  ]
+}

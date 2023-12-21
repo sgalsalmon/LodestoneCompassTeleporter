@@ -1,0 +1,12 @@
+{
+  "parent": "lct:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:location"
+      }
+    },
+    "rewards": {
+      "function": "lct:player_seconds"
+    }
+  }
+  

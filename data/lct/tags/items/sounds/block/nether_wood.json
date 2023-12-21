@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "crimson_planks",
+    "crimson_stairs",
+    "crimson_slab",
+    "crimson_fence",
+    "crimson_fence_gate",
+    "crimson_door",
+    "crimson_trapdoor",
+    "crimson_pressure_plate",
+    "crimson_button",
+    "crimson_sign",
+    "warped_planks",
+    "warped_stairs",
+    "warped_slab",
+    "warped_fence",
+    "warped_fence_gate",
+    "warped_door",
+    "warped_trapdoor",
+    "warped_pressure_plate",
+    "warped_button",
+    "warped_sign"
+  ]
+}

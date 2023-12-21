@@ -1,0 +1,69 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Dimension : ",
+        "color": "gray",
+        "italic": false,
+        "extra": [
+          {
+            "nbt": "Inventory[{Slot:-106b}].tag.LodestoneDimension",
+            "entity": "@s"
+          }
+        ]
+      },
+      {
+        "text": "Pos : [ ",
+        "color": "gray",
+        "italic": false,
+        "extra": [
+          {
+            "text": "X:",
+            "color": "white"
+          },
+          {
+            "nbt": "Inventory[{Slot:-106b}].tag.LodestonePos.X",
+            "entity": "@s",
+            "color": "white"
+          },
+          {
+            "text": ", Y:",
+            "color": "white"
+          },
+          {
+            "nbt": "Inventory[{Slot:-106b}].tag.LodestonePos.Y",
+            "entity": "@s",
+            "color": "white"
+          },
+          {
+            "text": ", Z:",
+            "color": "white"
+          },
+          {
+            "nbt": "Inventory[{Slot:-106b}].tag.LodestonePos.Z",
+            "entity": "@s",
+            "color": "white"
+          },
+          {
+            "text": " ]"
+          }
+        ]
+      },
+      {
+        "text": "Effect : ",
+        "color": "gray",
+        "italic": false,
+        "extra": [
+          {
+            "nbt": "Inventory[{Slot:-106b}].tag.lct.Effect.Lore",
+            "entity": "@s",
+            "interpret": true
+          }
+        ]
+      }
+    ],
+    "replace": true
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "anvil",
+    "chipped_anvil",
+    "damaged_anvil",
+    "bell"
+  ]
+}

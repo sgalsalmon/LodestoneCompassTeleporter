@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "sculk_sensor",
+    "calibrated_sculk_sensor"
+  ]
+}
