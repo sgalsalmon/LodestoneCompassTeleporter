@@ -2,7 +2,8 @@
   "replace": false,
   "values": [
     "grass_block",
-    "short_grass",
+    {"id": "short_grass","required": false},
+    {"id": "grass","required": false},
     "dandelion",
     "poppy",
     "blue_orchid",

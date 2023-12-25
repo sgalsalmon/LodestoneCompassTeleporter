@@ -1,12 +1,11 @@
 # Lodestone Compass Teleporter v0.1.1
-Datapack to allow teleportation to Loadstone with Loadstone Compass.  
+Minecraft datapack that allow teleportation to Loadstone with Loadstone Compass.  
 <br>
 ロードストーンコンパスでロードストーンにテレポートできるデータパック  
 ***
 
 ## Supported Versions / 対応バージョン
-* 1.20.4  
-* 1.20.3
+* 1.20.2 - 1.20.4
 ***
 
 ## How to Use / 使い方
