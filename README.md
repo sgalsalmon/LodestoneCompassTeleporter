@@ -56,4 +56,4 @@ Minecraft datapack that allow teleportation to Loadstone with Loadstone Compass.
 </div></details></div></details>
 
 ## License / ライセンス
-No license.
+MIT license.
